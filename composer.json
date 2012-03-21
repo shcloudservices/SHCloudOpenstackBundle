@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Symfony2 bundle for guzzle-openstack",
     "keywords": ["Guzzle", "Openstack", "Symfony2"],
-    "homepage": "http://github.com/shcloudservices/guzzle-openstack-bundle",
+    "homepage": "http://github.com/shcloudservices/SHCloudOpenstackBundle",
     "license": "MIT",
     "authors": [
         {
@@ -19,4 +19,8 @@
         "php": ">=5.3.2",
         "shcloudservices/guzzle-openstack": "*"
     },
+    "autoload": {
+        "psr-0": { "SHCloud\\OpenstackBundle": "" }
+    },
+    "target-dir": "SHCloud/OpenstackBundle"    
 }
