@@ -5,3 +5,4 @@ services:
 #    sh_cloud_openstack.example:
 #        class: %sh_cloud_openstack.example.class%
 #        arguments: [@service_id, "plain_value", %parameter%]
+
