@@ -1,7 +1,7 @@
 {
-    "name": "shcloudservices/guzzle-openstack-bundle",
+    "name": "shcloudservices/shcloud-openstack-bundle",
     "type": "library",
-    "description": "Symfony2 bundle for guzzle-openstack",
+    "description": "Symfony2 bundle for guzzle-openstack clients",
     "keywords": ["Guzzle", "Openstack", "Symfony2"],
     "homepage": "http://github.com/shcloudservices/SHCloudOpenstackBundle",
     "license": "MIT",
